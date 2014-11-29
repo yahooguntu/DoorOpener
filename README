@@ -1,0 +1,7 @@
+Developed in collaboration with Ethan Law.
+
+This code runs on a PIC18F45K22 microcontroller that
+unlocks a door with a servo when the correct tag is read.
+The hardware was originally run by a Raspberry Pi, but
+obviously that was way overpowered for this application.
+We did this for our Microcontrollers class final project.
